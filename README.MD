@@ -1,5 +1,9 @@
 To Start, open up index.php.
 
+Thanks for considering me as a candidate. The whole exercise took 8 hours (6hr Task A, 2hr Task B), which includes styling, through out the week. It took longer than I anticipated because I came across some challenges along the way. It was enjoyable nonetheless! Below is some high level comments for this coding exercise, you can view this in the README.md file as well.
+
+https://github.com/EricaNichol/fortinet_challenge
+
 ##HIGHLIGHTS:
 
 ###Task 1:
