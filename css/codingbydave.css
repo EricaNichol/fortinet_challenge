@@ -1,0 +1,84 @@
+h1, h2, h3, body, p {
+  font-family: 'Open sans' !important; }
+
+h2 {
+  font-size: bold;
+  text-transform: uppercase;
+  color: #1b9eea;
+  font-size: 16px; }
+
+.clear:before,
+.clear:after {
+  content: " ";
+  display: table; }
+
+.clear:after {
+  clear: both; }
+
+.clear {
+  *zoom: 1; }
+
+.codingbydave {
+  height: 60px;
+  width: auto;
+  padding: 20px 10px;
+  background-color: rgba(189, 134, 0, 0.3);
+  position: fixed;
+  top: 0; }
+
+.container {
+  padding: 20px;
+  width: 100%; }
+  .container .part_container {
+    width: 45%;
+    float: left; }
+  .container .part_container.first {
+    margin-right: 5%; }
+
+#upload_form {
+  padding: 30px;
+  background-color: #f1f1f1;
+  margin-bottom: 50px;
+  margin-top: 30px; }
+
+#file_container .field_item {
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #f1f1f1; }
+  #file_container .field_item .download_link {
+    color: blue;
+    text-align: center;
+    display: inline-block; }
+  #file_container .field_item .field_box h2 {
+    display: inline-block;
+    margin-right: 10px; }
+  #file_container .field_item .btn {
+    width: 100%;
+    margin-top: 20px; }
+#file_container .field_item:nth-child(2n) {
+  margin-right: 0; }
+
+.jFiler-input {
+  width: auto !important; }
+
+.jFiler-items-grid .jFiler-item .jFiler-item-container .jFiler-item-thumb {
+  width: 100%; }
+
+.jFiler-item {
+  float: none;
+  width: 100%;
+  margin-right: 0; }
+  .jFiler-item .jFiler-item-container {
+    margin: 0 0 30px 0 !important; }
+  .jFiler-item .list-inline.pull-right {
+    margin-top: 10px; }
+
+.recursion_form {
+  padding: 30px;
+  background-color: #f1f1f1;
+  margin-bottom: 50px;
+  margin-top: 30px; }
+  .recursion_form .number_box {
+    margin-bottom: 15px; }
+
+/*# sourceMappingURL=codingbydave.css.map */

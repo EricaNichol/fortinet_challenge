@@ -1,0 +1,102 @@
+$blue: #1b9eea;
+
+h1, h2, h3, body, p {
+  font-family: 'Open sans' !important;
+}
+h2 {
+  font-size: bold;
+  text-transform: uppercase;
+  color: $blue;
+  font-size: 16px;
+}
+.clear:before,
+.clear:after {
+  content: " ";
+  display: table;
+}
+.clear:after {
+  clear: both;
+}
+.clear {
+  *zoom: 1;
+}
+.codingbydave {
+  height: 60px;
+  width: auto;
+  padding: 20px 10px;
+  background-color: rgba(189, 134, 0, 0.3);
+  position: fixed;
+  top: 0;
+}
+.container {
+  padding: 20px;
+  width: 100%;
+    .part_container {
+      width: 45%;
+      float: left;
+    }
+    .part_container.first {
+      margin-right: 5%;
+    }
+}
+#upload_form {
+  padding: 30px;
+  background-color: #f1f1f1;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+#file_container {
+  .field_item {
+    // width: 49%;
+    // float: left;
+    // margin-right: 2%;
+    padding: 20px;
+    margin-bottom: 30px;
+    background-color: #f1f1f1;
+      .download_link {
+        color: blue;
+        text-align: center;
+        display: inline-block;
+
+      }
+      .field_box  {
+        h2 {
+          display: inline-block;
+          margin-right: 10px;
+        }
+      }
+      .btn {
+        width: 100%;
+        margin-top: 20px;
+      }
+  }
+  .field_item:nth-child(2n) {
+    margin-right: 0;
+  }
+}
+.jFiler-input {
+  width: auto !important;
+}
+.jFiler-items-grid .jFiler-item .jFiler-item-container .jFiler-item-thumb {
+  width: 100%;
+}
+.jFiler-item {
+  float: none;
+  width: 100%;
+  margin-right: 0;
+    .jFiler-item-container {
+      margin: 0 0 30px 0 !important;
+    }
+    .list-inline.pull-right {
+      margin-top: 10px;
+    }
+}
+.recursion_form {
+  padding: 30px;
+  background-color: #f1f1f1;
+  margin-bottom: 50px;
+  margin-top: 30px;
+    .number_box {
+      margin-bottom: 15px
+    }
+}
