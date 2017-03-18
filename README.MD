@@ -1,8 +1,4 @@
-Hi There,
-
-Thank you for considering me as a candidate! This exercise took approximatly
-9 hours (6hr Task 1, 2hr for Task 2, 1 hour review), which includes styling. It took a little bit longer than I expected but
-none the less it was enjoyable! Below are my highlevel comments for this exercise.
+To Start, open up index.php.
 
 ##HIGHLIGHTS:
 
